@@ -1,1 +1,0 @@
-cmd_/home/cjacky/GPU_virtualization/device_test/device/ldd.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cjacky/GPU_virtualization/device_test/device/ldd.ko /home/cjacky/GPU_virtualization/device_test/device/ldd.o /home/cjacky/GPU_virtualization/device_test/device/ldd.mod.o
